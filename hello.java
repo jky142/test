@@ -1,1 +1,3 @@
-println("ttt");
+﻿public static void main(){
+	System.out.println("hello World");
+}
